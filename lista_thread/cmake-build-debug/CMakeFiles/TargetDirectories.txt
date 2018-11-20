@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/cmake-build-debug/CMakeFiles/lista_thread.dir
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/cmake-build-debug/CMakeFiles/edit_cache.dir

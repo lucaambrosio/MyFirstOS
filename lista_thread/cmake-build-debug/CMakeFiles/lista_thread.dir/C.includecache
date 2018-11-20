@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/tqueue.c
+tqueue.h
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/tqueue.h
+
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/tqueue.h
+stdio.h
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/stdio.h
+stdlib.h
+-
+
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/tqueue_test.c
+tqueue.h
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/tqueue.h
+stdio.h
+/cygdrive/c/Users/Luca/Desktop/SUPSI/terza/Sistemi_operativi/Pratica/inzio/lista_thread/stdio.h
+stdlib.h
+-
+assert.h
+-
+

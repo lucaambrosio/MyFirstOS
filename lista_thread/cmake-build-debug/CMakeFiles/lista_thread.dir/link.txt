@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/lista_thread.dir/tqueue.c.o CMakeFiles/lista_thread.dir/tqueue_test.c.o  -o lista_thread.exe -Wl,--out-implib,liblista_thread.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
